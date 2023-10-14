@@ -669,7 +669,6 @@ March 4, 1986
 	原文：My own preference, as perhaps you’d guess, is for a market price that consistently approximates business value.  Given that relationship, all owners prosper precisely as the business prospers during their period of ownership.  Wild swings in market prices far above and below business value do not change the final gains for owners in aggregate; in the end, investor gains must equal business gains.  But long periods of substantial undervaluation and/or overvaluation will cause the gains of the business to be inequitably distributed among various owners, with the investment result of any given owner largely depending upon how lucky, shrewd, or foolish he happens to be.
 	共读版：而我个人偏好是期望公司股价的表现始终与其企业内在价值接近，惟有这样，股东持有期间的回报跟公司业绩才能趋于一致。股价过高或过低地偏离其内在价值的剧幅波动并无法改变股东的最终回报，所有股东的回报必定与公司的业绩保持一致。股价长期偏离其内在价值(不管是高估或低估)只会导致企业的获利被不公平的分配到各个股东之间，而股东投资结果的好坏完全取决于其幸运、聪明或愚笨的程度。
 	修改为：也许你已经猜到，我本人更倾向于市场价格始终接近内在价值，惟有这样，股东持有期间的回报才能跟公司业绩趋于一致。市场价格远高于或低于企业价值并不会改变股东的最终回报，归根结底，所有股东的回报必定与公司业绩保持一致。但是，股价长期偏离其内在价值(不管是高估或低估)会导致公司收益分配不公，股东的投资收益在很大程度上取决于其幸运、聪明或愚笨的程度。
-
 [^6]: By Yoan @20231010
 	原文：virtually all of our shareholders are individuals, not institutions.  No other public company our size can claim the same.
 	共读版：实际上，几乎我们所有的股东都是个人而不是机构，没有一家这样规模的上市公司能够做到这一点。
