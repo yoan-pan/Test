@@ -696,22 +696,35 @@ Subsequent Event: On March 18, a week after copy for this report went to the typ
 后续事项：3月18日，在报告付梓的一周之后，我们协议以每股172.5美金买进300万股大都会广播公司的股份Capital Cities Communications， Inc.，前提条件是大都会必须要能够成功并购ABC美国广播公司American Broadcasting Companies， Inc.，否则合约无效，但这最早也要到1985年底完成。在过去几年中我们多次表达对由汤姆·墨菲(Tom Murphy)和丹·柏克(Dan Burke)领导的大都会管理层表示钦佩，原因很简单，因为他们不管在个人能力还是人格魅力方面，皆是一流之选，明年的年报我将会详加说明这项投资案的始末。
 
 [^1]: By Yoan @20230930
+    
     原文：Because it was material and unusual, we highlighted the GEICO distribution last year to you, both in the applicable quarterly report and in this section of the annual report. Additionally, we emphasized the transaction to our auditors, Peat, Marwick, Mitchell & Co. Both the Omaha office of Peat Marwick and the reviewing Chicago partner, without objection, concurred with our dividend presentation.
+    
     肖良版：由于它很重要且常见，所以在去年季报与年报中我们特别加以说明，此外，我们向我们的会计师事务所 Peat、Marwick、Mitchell & Co 解释了交易，他们无异议地同意我们的股息说明。
+    
     张志雄版：但由于这种情况并不常见且金额又不小，所以在去年季报与年报中我们特别加以分别列示，并且经过了我们的本地签证会计师认可同意。
+    
     unusual 意为不常见；综合两版的翻译，修改为：由于这笔交易很重要且并不常见，所以在去年季报与年报中我们特别加以说明，并且经过了我们的本地签证会计师认可同意。
 
 [^2]: By Yoan @20230930
-	原文：Previous recipients of honorary degrees in business from NYU include Clifton Garvin, Jr., CEO of Exxon Corp.; Walter Wriston, then CEO of Citicorp; Frank Cary, then CEO of IBM; Tom Murphy, then CEO of General Motors; and, most recently, Paul Volcker. (They are in good company.)
-	肖良版：纽约大学之前获颁商业荣誉学位殊荣的有：埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker。
-	参照张志雄版，修改为：此前获颁这项殊荣的有埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker等杰出企业人士。
+	
+ 原文：Previous recipients of honorary degrees in business from NYU include Clifton Garvin, Jr., CEO of Exxon Corp.; Walter Wriston, then CEO of Citicorp; Frank Cary, then CEO of IBM; Tom Murphy, then CEO of General Motors; and, most recently, Paul Volcker. (They are in good company.)
+	
+ 肖良版：纽约大学之前获颁商业荣誉学位殊荣的有：埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker。
+	
+ 参照张志雄版，修改为：此前获颁这项殊荣的有埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker等杰出企业人士。
 
 [^3]: By Yoan @20230930
-	原文： The younger generation has attended the best business school of them all - that conducted by Mrs. B and Louie - and their training is evident in their performance.
-	肖良版：年轻一代就读于他们中最好的商学院，由B夫人和Louie教授，他们的训练从他们的表现中可见一斑。
-	参照Deepl，略微调整语序，修改为：从他们的业绩中可以看出，年轻一代就读于由B夫人和Louie教授的最好的商学院。
+
+原文： The younger generation has attended the best business school of them all - that conducted by Mrs. B and Louie - and their training is evident in their performance.
+
+肖良版：年轻一代就读于他们中最好的商学院，由B夫人和Louie教授，他们的训练从他们的表现中可见一斑。
+
+参照Deepl，略微调整语序，修改为：从他们的业绩中可以看出，年轻一代就读于由B夫人和Louie教授的最好的商学院。
 
 [^4]: By Yoan @20230930
+
 	原文：We also earn significant sums in the Easter and Valentine’s Day periods, but pretty much tread water the rest of the year.
+
 	肖良版：此外复活节与情人节期间的业绩也特别好，但剩下的时间里几乎都是踩水。
+
 	参照剑桥词典的释义，将踩水换为中文语境下同一意思的表达：差强人意。修改为：此外复活节与情人节期间的业绩也特别好，但剩下的时间就不尽人意了。
