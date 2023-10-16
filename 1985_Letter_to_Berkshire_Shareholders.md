@@ -531,8 +531,9 @@ We show below our 1985 yearend net holdings in marketable equities.  All positi
 
 我们在 1985 年年底的有价证券净持有量在下表显示。 所有市值超过2500万美元的头寸均已列示，不包括归属于西科金融和内布拉斯家具城少数股东的权益。
 
-| No of Shares</br>股份数量 | Company</br>公司| Cost</br>成本</br>(000s omitted)</br>单位：千美元 | Market</br>市值</br>(000s omitted)</br>单位：千美元 |
-| -----------: | ------------------------------------- | ----------------------: | ------------------------: |
+| No of Shares</br>股份数量 | Company</br>公司| Cost</br>成本| Market</br>市值 |
+| -----------: | -------------------------------------: | ----------------------: | ------------------------: |
+| | | (000s omitted)</br>单位：千美元| (000s omitted)</br>单位：千美元|
 |    1,036,461 | Affiliated Publications, Inc.</br>联合出版公司|                 $ 3,516 |                  $ 55,710 |
 |      900,800 | American Broadcasting Companies, Inc.</br>美国广播公司 |                  54,435 |                   108,997 |
 |    2,350,922 | Beatrice Companies, Inc.</br>比阿特丽斯食品公司              |                 106,811 |                   108,142 |
@@ -755,9 +756,12 @@ March 4, 1986
 1986年3月4日
 
 [^1]: By Yoan @20231009
-    原文：nothing much was in the works but our experience had been that something big popped up occasionally.
-    共读版：虽然平时表面上无所作为，但我们的经验显示偶尔也会有一些大动作。
-    参考 DeepL，修改为：虽然平时表面上无所作为，但根据我们的经验，偶尔也会有一些大动作。
+
+原文：nothing much was in the works but our experience had been that something big popped up occasionally.
+    
+共读版：虽然平时表面上无所作为，但我们的经验显示偶尔也会有一些大动作。
+   
+参考 DeepL，修改为：虽然平时表面上无所作为，但根据我们的经验，偶尔也会有一些大动作。
 
 [^2]: By Yoan @20231009
     原文：It’s true that our insurance companies currently hold major positions in companies with exceptional underlying economics and outstanding managements, just as they did in 1974.
