@@ -757,16 +757,17 @@ March 4, 1986
 
 [^1]: By Yoan @20231009
 
-原文：nothing much was in the works but our experience had been that something big popped up occasionally.
+	原文：nothing much was in the works but our experience had been that something big popped up occasionally.
     
-共读版：虽然平时表面上无所作为，但我们的经验显示偶尔也会有一些大动作。
+	共读版：虽然平时表面上无所作为，但我们的经验显示偶尔也会有一些大动作。
    
-参考 DeepL，修改为：虽然平时表面上无所作为，但根据我们的经验，偶尔也会有一些大动作。
+	参考 DeepL，修改为：虽然平时表面上无所作为，但根据我们的经验，偶尔也会有一些大动作。
 
 [^2]: By Yoan @20231009
-    原文：It’s true that our insurance companies currently hold major positions in companies with exceptional underlying economics and outstanding managements, just as they did in 1974.
-    共读版：虽然我们投资组合持有的公司拥有优秀经营团队和特许经营的经济业务像1974年一样的优秀，
-    修改为：虽然我们投资组合持有的公司像1974年一样拥有优秀经营团队和特许经营业务，
+
+	原文：It’s true that our insurance companies currently hold major positions in companies with exceptional underlying economics and outstanding managements, just as they did in 1974.
+	共读版：虽然我们投资组合持有的公司拥有优秀经营团队和特许经营的经济业务像1974年一样的优秀，
+	修改为：虽然我们投资组合持有的公司像1974年一样拥有优秀经营团队和特许经营业务，
 
 [^3]: By Yoan @20231010
 	原文：With the price there, purchasers could be certain (as long as they did not experience a widening of this discount) that their personal investment experience would at least equal the financial experience of the business.  But recently the discount has disappeared, and occasionally a modest premium has prevailed.
