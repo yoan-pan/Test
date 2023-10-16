@@ -368,8 +368,8 @@ Shown below is an updated version of our usual table, listing two key figures fo
 | 1981             |                                   3.9 |                                        106.0 |
 | 1982             |                                   4.4 |                                        109.7 |
 | 1983             |                                   4.5 |                                        111.9 |
-| 1984 (Revised)</br>修订后   |                                   9.2 |                                        117.9 |
-| 1985 (Estimated)</br>预估 |                                  20.9 |                                          118 |
+| 1984 (Revised)</br>1984（修订后）   |                                   9.2 |                                        117.9 |
+| 1985 (Estimated)</br>1985（预估） |                                  20.9 |                                          118 |
 
 _Source: Best’s Aggregates and Averages_
 
