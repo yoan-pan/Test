@@ -707,19 +707,19 @@ Subsequent Event: On March 18, a week after copy for this report went to the typ
 
 [^2]: By Yoan @20230930
 	
- 原文：Previous recipients of honorary degrees in business from NYU include Clifton Garvin, Jr., CEO of Exxon Corp.; Walter Wriston, then CEO of Citicorp; Frank Cary, then CEO of IBM; Tom Murphy, then CEO of General Motors; and, most recently, Paul Volcker. (They are in good company.)
+	 原文：Previous recipients of honorary degrees in business from NYU include Clifton Garvin, Jr., CEO of Exxon Corp.; Walter Wriston, then CEO of Citicorp; Frank Cary, then CEO of IBM; Tom Murphy, then CEO of General Motors; and, most recently, Paul Volcker. (They are in good company.)
 	
- 肖良版：纽约大学之前获颁商业荣誉学位殊荣的有：埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker。
+	 肖良版：纽约大学之前获颁商业荣誉学位殊荣的有：埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker。
 	
- 参照张志雄版，修改为：此前获颁这项殊荣的有埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker等杰出企业人士。
+	 参照张志雄版，修改为：此前获颁这项殊荣的有埃克森石油总裁Clifton Garvin、花旗银行总裁Walter Wriston、IBM总裁Frank Cary、通用汽车总裁Thomas Murphy、美联储主席Paul Volcker等杰出企业人士。
 
 [^3]: By Yoan @20230930
 
-原文： The younger generation has attended the best business school of them all - that conducted by Mrs. B and Louie - and their training is evident in their performance.
+	原文： The younger generation has attended the best business school of them all - that conducted by Mrs. B and Louie - and their training is evident in their performance.
 
-肖良版：年轻一代就读于他们中最好的商学院，由B夫人和Louie教授，他们的训练从他们的表现中可见一斑。
+	肖良版：年轻一代就读于他们中最好的商学院，由B夫人和Louie教授，他们的训练从他们的表现中可见一斑。
 
-参照Deepl，略微调整语序，修改为：从他们的业绩中可以看出，年轻一代就读于由B夫人和Louie教授的最好的商学院。
+	参照Deepl，略微调整语序，修改为：从他们的业绩中可以看出，年轻一代就读于由B夫人和Louie教授的最好的商学院。
 
 [^4]: By Yoan @20230930
 
