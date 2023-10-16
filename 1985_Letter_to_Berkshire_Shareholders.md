@@ -766,22 +766,33 @@ March 4, 1986
 [^2]: By Yoan @20231009
 
 	原文：It’s true that our insurance companies currently hold major positions in companies with exceptional underlying economics and outstanding managements, just as they did in 1974.
+	
 	共读版：虽然我们投资组合持有的公司拥有优秀经营团队和特许经营的经济业务像1974年一样的优秀，
+	
 	修改为：虽然我们投资组合持有的公司像1974年一样拥有优秀经营团队和特许经营业务，
 
 [^3]: By Yoan @20231010
+	
 	原文：With the price there, purchasers could be certain (as long as they did not experience a widening of this discount) that their personal investment experience would at least equal the financial experience of the business.  But recently the discount has disappeared, and occasionally a modest premium has prevailed.
+		
 	共读版：从历史上看，伯克希尔股票的售价一直略低于内在商业价值。维持在这样的估值，投资人可以确定，只要折价的幅度不再继续扩大，其个人的投资收益与公司的业绩表现趋于一致，但最近折价消失了，甚至出现适度的溢价。
+		
 	修改为：回望历史，伯克希尔的股价一直略低于内在价值。在这种情况下，只要折价的幅度不再继续扩大，投资者的投资收益会与公司的业绩表现趋于一致，但最近折价消失了，甚至有一些小幅溢价。
 
 [^4]: By Yoan @2023101
+
 	原文：The elimination of the discount means that Berkshire’s market value increased even faster than business value (which, itself, grew at a pleasing pace).  That was good news for any owner holding while that move took place, but it is bad news for the new or prospective owner.  If the financial experience of new owners of Berkshire is merely to match the future financial experience of the company, any premium of market value over intrinsic business value that they pay must be maintained.
+	
 	共读版：折价消失代表着伯克希尔的市值增加的幅度高于内在价值增长的速度，虽然后者的表现也不错，当然这对于此前便持有股份的人算是好消息，但对于新股东或潜在股东却是不利的，而后者若想投资收益与公司的表现一致，则这种估值溢价现象需一直维持。
+	
 	修改为：折价消失意味着伯克希尔的市值增加幅度高于内在价值增长的速度，虽然后者的表现也不错。当然这对于此前便持有股份的人来说是个好消息，但对于新股东或潜在股东却是不利的，而后者若想获得与公司的表现一致的投资收益，那就需要这种估值溢价现象一直维持。
 
 [^5]: By Yoan @20231010
+
 	原文：My own preference, as perhaps you’d guess, is for a market price that consistently approximates business value.  Given that relationship, all owners prosper precisely as the business prospers during their period of ownership.  Wild swings in market prices far above and below business value do not change the final gains for owners in aggregate; in the end, investor gains must equal business gains.  But long periods of substantial undervaluation and/or overvaluation will cause the gains of the business to be inequitably distributed among various owners, with the investment result of any given owner largely depending upon how lucky, shrewd, or foolish he happens to be.
+	
 	共读版：而我个人偏好是期望公司股价的表现始终与其企业内在价值接近，惟有这样，股东持有期间的回报跟公司业绩才能趋于一致。股价过高或过低地偏离其内在价值的剧幅波动并无法改变股东的最终回报，所有股东的回报必定与公司的业绩保持一致。股价长期偏离其内在价值(不管是高估或低估)只会导致企业的获利被不公平的分配到各个股东之间，而股东投资结果的好坏完全取决于其幸运、聪明或愚笨的程度。
+	
 	修改为：也许你已经猜到，我本人更倾向于市场价格始终接近内在价值，惟有这样，股东持有期间的回报才能跟公司业绩趋于一致。市场价格远高于或低于企业价值并不会改变股东的最终回报，归根结底，所有股东的回报必定与公司业绩保持一致。但是，股价长期偏离其内在价值(不管是高估或低估)会导致公司收益分配不公，股东的投资收益在很大程度上取决于其幸运、聪明或愚笨的程度。
 
 [^6]: By Yoan @20231010
